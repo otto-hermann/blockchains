@@ -9,6 +9,6 @@ All kinds of utilities for working with blockchain.
 ```
 Contains regex for Symbols:
 
-BTC, ETH, ETC, LTC, BTG, DGB, QTUM, BCH, BSV, NEO, XRP, DASH, DOGE,
-WAVES, IOTA, TRX, XLM, BNB, ZEC, XMR, MFC, GRAM, PZM, XEM, XTZ
+BTC, ETH, ETC, LTC, BTG, DGB, QTUM, BCH, BSV, NEO, XRP, DASH, DOGE, WAVES, IOTA, TRX, XLM, BNB,
+ZEC, XMR, MFC, GRAM, PZM, XEM, XTZ
 ```
