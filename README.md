@@ -4,9 +4,11 @@ All kinds of utilities for working with blockchain.
 
 ----
 
-** : blockchains_addresses_regex.json ** 
-Contains regex for:
+: blockchains_addresses_regex.json :
 
 ```
-BTC, ETH, ETC, LTC, BTG, DGB, QTUM, BCH, BSV, NEO, XRP, DASH, DOGE, WAVES, IOTA, TRX, XLM, BNB, ZEC, XMR, MFC, GRAM, PZM, XEM, XTZ
+Contains regex for Symbols:
+
+BTC, ETH, ETC, LTC, BTG, DGB, QTUM, BCH, BSV, NEO, XRP, DASH, DOGE,
+WAVES, IOTA, TRX, XLM, BNB, ZEC, XMR, MFC, GRAM, PZM, XEM, XTZ
 ```
